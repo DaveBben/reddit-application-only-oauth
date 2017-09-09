@@ -1,0 +1,22 @@
+{
+  "name": "youtube-reddit-api",
+  "version": "1.0.0",
+  "description": "Example using Reddit Oauth API for application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reddit",
+    "api",
+    "oauth",
+    "javascript"
+  ],
+  "author": "Dave Bennett",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-config-airbnb-base": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
